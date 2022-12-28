@@ -1,0 +1,7 @@
+# ninja log v5
+2	1991	1672257260256475766	CMakeFiles/Complex_Algorithms.dir/main.cpp.o	35b0afaaa9099e16
+38	3987	1672257180548369312	CMakeFiles/Complex_Algorithms.dir/HuffmanTreeEncoding.cpp.o	71a3076c620809d5
+1992	2073	1672257260344747442	Complex_Algorithms	beb97b1b67381cf1
+18	2694	1672257546378900352	CMakeFiles/Complex_Algorithms.dir/HuffmanTreeEncoding.cpp.o	a55d1b22d250fd7c
+14	2859	1672257546548475669	CMakeFiles/Complex_Algorithms.dir/main.cpp.o	9c627bc8a77f86c8
+2859	2989	1672257546684503092	Complex_Algorithms	beb97b1b67381cf1
